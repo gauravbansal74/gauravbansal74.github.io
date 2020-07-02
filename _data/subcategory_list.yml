@@ -3,16 +3,16 @@
 
 subcategory-one:
   name: Subcategory One
-  parent-category: using-subcategories
-  parent-category-name: Using Subcategories
+  parent-category: Algorithms
+  parent-category-name: Algorithms
   description: This is your first subcategory!
 subcategory-two:
   name: Subcategory Two
-  parent-category: using-subcategories
-  parent-category-name: Using Subcategories
+  parent-category: Algorithms
+  parent-category-name: Algorithms
   description: This is your second subcategory!
 subcategory-three:
   name: Subcategory Three
-  parent-category: using-subcategories
-  parent-category-name: Using Subcategories
+  parent-category: Algorithms
+  parent-category-name: Algorithms
   description: This is your third subcategory!
