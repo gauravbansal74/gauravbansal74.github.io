@@ -18,7 +18,7 @@ layout: default
             <a href="https://{{ site.url }}{{ site.baseurl }}">Help Center Home</a>
           </li>
           <li class="breadcrumb-item">
-            <a href="https://{{ site.url }}{{ site.baseurl }}/{{ page_subcategory.parent-category | slugify }}">{{ page_subcategory.parent-category-name }}</a>
+            <a href="{{ site.url }}{{ site.baseurl }}/{{ page_subcategory.parent-category | slugify }}">{{ page_subcategory.parent-category-name }}</a>
           </li>
           <li class="breadcrumb-item">
             <a href="#">{{ page_subcategory.name }}</a>
