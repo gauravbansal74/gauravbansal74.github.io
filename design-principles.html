@@ -1,6 +1,9 @@
 ---
 layout: subcategory
-category: Algorithms
-subcategory: subcategory-one
-title: Subcategory One
+category: software-solution
+subcategory: design-principles
+title: Design Principles
 ---
+{% for post in site.categories.design-patterns %}
+  {% include article-card.html %}
+{% endfor %}
