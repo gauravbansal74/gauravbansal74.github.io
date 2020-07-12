@@ -11,6 +11,11 @@ design-principles:
   parent-category: software-solution
   parent-category-name: Software Solution
   description: Typical principes for mature software design
+solid-principles:
+  name: Solid Principles
+  parent-category: design-principles
+  parent-category-name: Design Principles
+  description: SOLID principes in software design
 # subcategory-three:
 #   name: Subcategory Three
 #   parent-category: Algorithms
