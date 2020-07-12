@@ -3,14 +3,14 @@
 
 design-patterns:
   name: Design Patterns
-  parent-category: design-patterns
-  parent-category-name: Design Patterns
-  description: This is your first subcategory!
+  parent-category: software-solution
+  parent-category-name: Software Solution
+  description: Typical solution for common problems in Software design
 design-principles:
   name: Design Principles
-  parent-category: design-patterns
-  parent-category-name: Design Patterns
-  description: This is your second subcategory!
+  parent-category: software-solution
+  parent-category-name: Software Solution
+  description: Typical principes for mature software design
 # subcategory-three:
 #   name: Subcategory Three
 #   parent-category: Algorithms

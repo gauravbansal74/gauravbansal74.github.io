@@ -4,8 +4,8 @@
 # using-subcategories:
 #   name: Algorithms
 #   description: Learn to use subcategories!
-design-patterns:
-  name: Design Patterns
+software-solution:
+  name: Software Solution
   description: typical solutions for common problems in software design.
 # customizing-odin:
 #   name: Customizing Odin
