@@ -1,12 +1,12 @@
 #This file defines all the categories you are using
 
 
-using-subcategories:
-  name: Algorithms
-  description: Learn to use subcategories!
-using-odin:
-  name: Using Odin
-  description: Welcome to Odin, time to get started
-customizing-odin:
-  name: Customizing Odin
-  description: Welcome to Odin, time to get started
+# using-subcategories:
+#   name: Algorithms
+#   description: Learn to use subcategories!
+design-patterns:
+  name: Design Patterns
+  description: typical solutions for common problems in software design.
+# customizing-odin:
+#   name: Customizing Odin
+#   description: Welcome to Odin, time to get started

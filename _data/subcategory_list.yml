@@ -2,17 +2,17 @@
 
 
 subcategory-one:
-  name: Subcategory One
-  parent-category: Algorithms
-  parent-category-name: Algorithms
+  name: Design Patterns
+  parent-category: design-patterns
+  parent-category-name: Design Patterns
   description: This is your first subcategory!
 subcategory-two:
-  name: Subcategory Two
-  parent-category: Algorithms
-  parent-category-name: Algorithms
+  name: Design Principles
+  parent-category: design-patterns
+  parent-category-name: Design Patterns
   description: This is your second subcategory!
-subcategory-three:
-  name: Subcategory Three
-  parent-category: Algorithms
-  parent-category-name: Algorithms
-  description: This is your third subcategory!
+# subcategory-three:
+#   name: Subcategory Three
+#   parent-category: Algorithms
+#   parent-category-name: Algorithms
+#   description: This is your third subcategory!
