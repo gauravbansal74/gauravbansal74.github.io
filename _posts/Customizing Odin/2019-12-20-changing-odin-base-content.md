@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Changing Odin's Base Content"
+title: "Changing atDesk 's Base Content"
 date: 2019-11-05 08:44:38 -0400
 category: customizing-odin
 author: mac
@@ -11,7 +11,7 @@ short-description: Adding your brand name, links, etc
 
 *This article is a stub, more info coming soon. Some sections should be cleaned up.*
 
-You can change virtually all of Odin's content from the `_config.yml` file. There are three things you cannot change from here, which need to be changed elsewhere - [colors](), [fonts](), and [categories](). Everything else is edited from this file.
+You can change virtually all of atDesk 's content from the `_config.yml` file. There are three things you cannot change from here, which need to be changed elsewhere - [colors](), [fonts](), and [categories](). Everything else is edited from this file.
 
 
 
@@ -21,7 +21,7 @@ At the top of `_config.yml` you'll find a number of base settings you should cha
 
 
 ##### Navigation Links
-Out of the box, Odin supports 3 custom navigation links + a 'return home' button. Each link supports a name and a link. If you want to disable a link, just add `#` to both options for that link. 
+Out of the box, atDesk supports 3 custom navigation links + a 'return home' button. Each link supports a name and a link. If you want to disable a link, just add `#` to both options for that link. 
 
 The navigation button can be edited by changing the `nav_button` and `nav_button_link` options.
 
@@ -39,7 +39,7 @@ The more help section shows up under your list of categories on your homepage, a
 
 ##### Social Links
 
-The social links section defines which social links show in the footer. By default Odin supports Instagram, Twitter, Facebook, LinkedIn, Email, and Github. Simply add the relevant social item to the right section, or add `#` if you don't want that social item to show in the footer.
+The social links section defines which social links show in the footer. By default atDesk supports Instagram, Twitter, Facebook, LinkedIn, Email, and Github. Simply add the relevant social item to the right section, or add `#` if you don't want that social item to show in the footer.
 
 ----
 
