@@ -7,6 +7,11 @@
 software-design:
   name: Software Design
   description: typical solutions for common problems in software design.
+  size: 2
+docker:
+  name: Docker
+  description: We help developers and development teams build and ship apps..
+  size: 0
 # customizing-odin:
 #   name: Customizing atDesk 
 #   description: Welcome to atDesk , time to get started

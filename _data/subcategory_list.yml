@@ -1,6 +1,5 @@
 #Tihs file defines all categories that live within a parent category
 
-
 design-patterns:
   name: Design Patterns
   parent-category: software-design
