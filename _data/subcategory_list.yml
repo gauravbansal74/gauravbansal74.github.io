@@ -3,12 +3,12 @@
 
 design-patterns:
   name: Design Patterns
-  parent-category: software-solution
+  parent-category: software-design
   parent-category-name: Software Design
   description: Typical solution for common problems in Software design
 design-principles:
   name: Design Principles
-  parent-category: software-solution
+  parent-category: software-design
   parent-category-name: Software Design
   description: Typical principes for mature software design
 solid-principles:
