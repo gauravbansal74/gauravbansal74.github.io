@@ -4,6 +4,10 @@
 # using-subcategories:
 #   name: Algorithms
 #   description: Learn to use subcategories!
+algorithm:
+  name: Data Structures and Algorithms
+  description: typical solutions for common problems in coding.
+  size: 2
 software-design:
   name: Software Design
   description: typical solutions for common problems in software design.
