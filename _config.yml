@@ -18,18 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: atDesk - A Jekyll Knowledge Base Theme
-description: atDesk is a simple to setup and use Jekyll theme for help desks and knowledge bases. Hosts for free on Github Pages!
+title: URAV.in - A Software Solution Knowledge Base
+description: Uravin - A Software Solution Knowledge Base
 baseurl:  # the subpath of your site, e.g. /support
-url: https://www.atDesk.co # the base hostname AND PROTOCOL for your site, e.g. http://example.com
+url: https://www.urav.in # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 
 content_type: Knowledge Base #Define whether this is a knowledge base, help center, or something else
 use_authors: true #Set this to false to disable showing post authors
 
 brand_logo: logo.png
-brand_name: https//www.atDesk.co
-header: atDesk.co
+brand_name: https//www.urav.in
+header: Urav.in
 subheader: Empowerment community through education 
 
 meta_image: odin-meta.png
@@ -53,8 +53,8 @@ nav_item_two_link: https://twitter.com/gauravbansal74
 nav_item_three: Linkedin
 nav_item_three_link: https://www.linkedin.com/in/gauravbansal74/
 
-nav_button: Return to atDesk Home
-nav_button_link: https://www.atDesk.co
+nav_button: Return to Home
+nav_button_link: https://www.urav.in
 
 # More Help
 help_one_title: Bugs

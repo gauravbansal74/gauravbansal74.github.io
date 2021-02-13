@@ -4,7 +4,7 @@ design-patterns:
   name: Design Patterns
   parent-category: software-design
   parent-category-name: Software Design
-  description: Typical solution for common problems in Software design
+  description: Design patterns are typical solutions or guidelines that can be applied to commonly problems in Software Design.
 design-principles:
   name: Design Principles
   parent-category: software-design

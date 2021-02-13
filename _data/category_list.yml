@@ -10,7 +10,7 @@ algorithm:
   size: 2
 software-design:
   name: Software Design
-  description: typical solutions for common problems in software design.
+  description: Design patterns are typical solutions or blueprint that can be applied to commonly problems in Software Design.
   size: 2
 docker:
   name: Docker
