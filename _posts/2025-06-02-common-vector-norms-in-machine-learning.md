@@ -15,21 +15,21 @@ In machine learning, vector norms are essential for measuring the size or length
 
 ### L1 Norm (Manhattan Norm)
 The L1 norm, also known as the Manhattan norm, is the sum of the absolute values of the vector's components. It is defined as:
-$$ | \mathbf{x} |1 = \sum{i=1}^{n} |x_i| $$
+$$| \mathbf{x} |1 = \sum{i=1}^{n} |x_i|$$
 
 When used to compute the loss, the L1 norm is also referred to as the **Mean Absolute Error**.
 This norm is useful in machine learning for promoting sparsity in models, such as in Lasso regression.
 
 ### L2 Norm (Euclidean Norm)
 The L2 norm, or Euclidean norm, is the square root of the sum of the squares of the vector's components. It is defined as:
-$$ | \mathbf{x} |2 = \sqrt{\sum{i=1}^{n} x_i^2} $$
+$$| \mathbf{x} |2 = \sqrt{\sum{i=1}^{n} x_i^2}$$
 
 The above equation is often referred to as the **root mean squared error** when used to compute the error.
 The L2 norm is commonly used in machine learning for regularization techniques like Ridge regression, as it penalizes large coefficients more than the L1 norm.
 
 ### Infinity Norm (Max Norm)
 The infinity norm, or max norm, is the maximum absolute value of the vector's components. It is defined as:
-$$ | \mathbf{x} |_\infty = \max_i |x_i| $$
+$$| \mathbf{x} |_\infty = \max_i |x_i|$$
 This norm is useful in scenarios where the largest component dominates the behavior of the vector, such as in certain optimization problems.
 
 ### Visual Representation
