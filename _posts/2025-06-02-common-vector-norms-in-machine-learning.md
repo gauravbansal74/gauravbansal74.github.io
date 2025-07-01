@@ -55,16 +55,48 @@ Consider a dataset with features representing different attributes of houses (e.
 
 ### How to implement these norms in machine learning algorithms? 😊
 
+#### L1 Norm in Optimization Problems
+{% highlight python %}
+
+import numpy as np
+
+# Sample vector
+x = np.array([1, -2, 3, -4, 5])
+
+# Calculate L1 norm using numpy.linalg
+l1_norm = np.linalg.norm(x, ord=1)
+
+print(f'L1 Norm: {l1_norm}')
+{% endhighlight %}
+
+
+#### L2 Norm in Optimization Problems
+
+{% highlight python %}
+
+import numpy as np
+
+# Sample vector
+x = np.array([1, -2, 3, -4, 5])
+
+# Calculate L2 norm using numpy.linalg
+l2_norm = np.linalg.norm(x, ord=2)
+print(f'L2 Norm: {l2_norm}')
+
+{% endhighlight %}
 
 #### Infinity Norm in Optimization Problems
 
 Here's how you can calculate the infinity norm using NumPy:
 {% highlight python %}
+
 import numpy as np
 
+# Sample vector
 x = np.array([1, -2, 3, -4, 5])
 
-infinity_norm = np.max(np.abs(x))
+# Calculate infinity norm using numpy.linalg
+infinity_norm = np.linalg.norm(x, ord=np.inf)
 print(f'Infinity Norm: {infinity_norm}')
 
 {% endhighlight %}
