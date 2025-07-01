@@ -3,9 +3,9 @@ title: "Linear Algebra for ML"
 date: 2025-07-01T00:00:00+00:00
 author: Gaurav Kumar
 layout: post
-permalink: /linear-algebra-for-machine-learning-deep-learning/
-categories: DL-ML
-tags: [Linear-Algebra, ML, DL]
+permalink: /linear-algebra-for-machine-learning-deep-learning
+categories: DLML
+tags: [Linear-Algebra, DLML]
 ---
 
 A scalar is a single number, a vector is a list of numbers, and a matrix is a grid of numbers arranged in rows and columns. These are fundamental building blocks in mathematics, physics, and computer science.
@@ -23,7 +23,7 @@ Used to represent linear transformations, store data in a structured way, and pe
 Examples include tables of data, transformation matrices in computer graphics, and covariance matrices in statistics.
 In essence, scalars are the simplest, vectors are one-dimensional arrays, and matrices are two-dimensional arrays of numbers. They are building blocks for more complex mathematical structures like tensors.
 
-![Liner-Algebra](/assets/images/scalar-vector-matrix-tensor.jpg "Liner-Algebra")
+![Linear-Algebra](/assets/images/scalar-vector-matrix-tensor.jpg "Linear-Algebra")
 
 ### Tensors:
 In essence, tensors are mathematical objects that generalize scalars, vectors, and matrices to higher dimensions. They are used to represent and manipulate data in various fields, including physics, mathematics, and computer science, particularly in areas like deep learning.
