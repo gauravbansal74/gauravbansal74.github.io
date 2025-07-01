@@ -8,4 +8,4 @@ categories: DLML
 tags: [Linear-Algebra, DLML]
 ---
 
-If you are reading this post. it is likely that you have already go through [Vector]("https://www.urav.in/linear-algebra-for-machine-learning-deep-learning")
+If you are reading this post. it is likely that you have already go through [Vector](/linear-algebra-for-machine-learning-deep-learning)
