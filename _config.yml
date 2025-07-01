@@ -6,23 +6,23 @@ description: >-
   Urav.in 
 lang: en-US
 timezone:  Europe/Istanbul
-repo: https://github.com/gauravbansal74/Ephesus # site repo [optional]
+repo: https://github.com/gauravbansal74/gauravbansal74.github.io # site repo [optional]
 google_verify:      XXX # Put your Google Verification here
-google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
+google_analytics:   G-1RH9Y5G0Z1 # Put your Google Analytics code
 discus-identifier:  XXX
 
 # Author settings
 author:
   name: Gaurav Kumar
-  bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
+  bio: Director of Technology  @Sun Li
   picture: assets/images/profile.jpg 
   github: gauravbansal74 # github username
   twitter: gauravbansal74 # twitter username
   facebook: gauravbansal74 # facebook username
   instagram: gauravbansal74 # instagram username
   youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
-  linkedin: hakantorun # linkedin username
-  email: your-email@email.com # email adress
+  linkedin: gauravbansal74 # linkedin username
+  email: g@urav.in # email adress
 
 
 # URL settings
