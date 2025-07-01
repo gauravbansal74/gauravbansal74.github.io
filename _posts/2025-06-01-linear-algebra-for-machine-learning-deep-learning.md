@@ -1,9 +1,9 @@
 ---
-title: "Linear Algebra for ML"
+title: "Data Types: Scalar, Vector, Matrix and Tensor"
 date: 2025-06-01T00:00:00+00:00
 author: Gaurav Kumar
 layout: post
-permalink: linear-algebra-for-machine-learning-deep-learning
+permalink: linear-algebra-scalar-vector-matrix-tensor
 categories: DLML
 tags: [Linear-Algebra, DLML]
 ---

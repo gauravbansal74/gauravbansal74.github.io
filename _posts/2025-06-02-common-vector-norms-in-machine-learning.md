@@ -1,9 +1,9 @@
 ---
-title: "Common Vector Norm in Machine Learning"
+title: "Common Vector Norm "
 date: 2025-06-02T00:00:00+00:00
 author: Gaurav Kumar
 layout: post
-permalink: common-vector-norms-in-machine-learning
+permalink: linear-algebra-common-vector-norms
 categories: DLML
 tags: [Linear-Algebra, DLML]
 ---
