@@ -25,17 +25,17 @@ Ephesus Jekyll Theme - Simple and Minimal Jekyll Blog Theme
 ## Screenshots
 
 #### Light
-![light-theme](https://github.com/onepase/Ephesus/blob/master/light.png)
+![light-theme](https://github.com/gauravbansal74/Ephesus/blob/master/light.png)
 
 #### Dark
-![dark-theme](https://github.com/onepase/Ephesus/blob/master/dark.png)
+![dark-theme](https://github.com/gauravbansal74/Ephesus/blob/master/dark.png)
 
 ## Installation
 
 Run local server:
 
 ```bash
-$ git clone https://github.com/onepase/Ephesus.git
+$ git clone https://github.com/gauravbansal74/Ephesus.git
 $ cd Ephesus
 $ bundle install
 $ bundle exec jekyll build
