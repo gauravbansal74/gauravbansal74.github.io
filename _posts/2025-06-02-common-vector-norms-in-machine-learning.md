@@ -6,6 +6,7 @@ layout: post
 permalink: linear-algebra-common-vector-norms
 categories: DLML
 tags: [Linear-Algebra, DLML]
+mathbf: true
 ---
 
 If you are reading this post. it is likely that you have already go through [Vector](/linear-algebra-scalar-vector-matrix-tensor)
