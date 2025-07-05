@@ -7,9 +7,9 @@ description: >-
 lang: en-US
 timezone:  Europe/Istanbul
 repo: https://github.com/gauravbansal74/gauravbansal74.github.io # site repo [optional]
-google_verify:      XXX # Put your Google Verification here
-google_analytics:   G-1RH9Y5G0Z1 # Put your Google Analytics code
-discus-identifier:  XXX
+google_verify: XXX # Put your Google Verification here
+google_analytics: G-1RH9Y5G0Z1 # Put your Google Analytics code
+discus-identifier:
 
 # Author settings
 author:
